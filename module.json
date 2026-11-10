@@ -1,0 +1,7 @@
+{
+  "name": "PlayerTracker",
+  "author": "CatannaDev",
+  "description": "Auto-records every player seen, with aliases, notes, reroll links and alt suggestions",
+  "version": "1.4.0",
+  "disableAutoUpdate": true
+}
